@@ -1,1 +1,96 @@
+📑 Weekly Report — Luzbela Souza
 
+Período: 25 a 30 de agosto de 2025
+Semana: Ago/2025 — Week 1
+
+🎯 Objetivo da Semana
+
+Avançar no desenvolvimento e documentação dos projetos Art & News e creative-log, consolidando práticas de front-end, versionamento e organização de repositórios, com apoio de ferramentas de IA (Bolt, ChatGPT) para prototipagem e automação.
+
+✅ Atividades Realizadas
+🔹 Organização e GitHub
+
+Estruturei o repositório art-news → depois consolidado em art-news-bolt.
+
+Configurei README com badges, status do projeto, prints, wireframes e objetivos de aprendizado.
+
+Estruturei diretórios para /imagens/prints e /imagens/wireframes.
+
+Aprendi a usar issues, milestones e labels para planejar e acompanhar tarefas.
+
+Criei o repositório creative-log para registrar relatórios semanais.
+
+🔹 Desenvolvimento Front-End (Art & News)
+
+Iniciei o protótipo no Bolt, com Next.js + TailwindCSS + TypeScript.
+
+Estruturei componentes base: Hero, Sidebar, Newsletter, Podcasts, Authors e Footer.
+
+Ajustei tipografia (Bebas Neue + Inter) e paleta de cores (amarelo + preto + branco).
+
+Documentei a primeira tentativa de integração de API (The Guardian, planejada).
+
+Aprendi sobre boas práticas de commits convencionais (feat, fix, docs, chore).
+
+🔹 Prototipagem e Design
+
+Experimentei uso de Figma para wireframes, mas optei por centralizar a prototipagem no Bolt para foco em desenvolvimento front-end.
+
+Pesquisei plugins de conversão de HTML para wireframes.
+
+🔹 Automação e Documentação
+
+Testei e configurei GitHub Actions (ex.: Snake animation para perfil).
+
+Pratiquei criação de arquivos auxiliares de documentação: COMMITS.md, ISSUES.md, CHANGELOG.md e PROJECT_STATUS.md.
+
+Estruturei primeiros relatórios de progresso para simular timesheets semanais.
+
+📚 Aprendizados Técnicos
+
+GitHub Projects: diferença entre project global (usuário) e project local (repositório).
+
+GitHub Actions: configurar permissões de escrita para workflows automatizados.
+
+Next.js + TailwindCSS: reforço sobre SSR, estilização rápida e componentização.
+
+Processo de versionamento: importância de commits organizados e documentação paralela.
+
+Fluxo de API: fundamentos para preparar integração futura (fetch, cache, fallback).
+
+🕒 Carga Horária Estimada
+
+Organização de repositórios: ~6h
+
+Desenvolvimento no Bolt (Art & News): ~10h
+
+Documentação (issues, milestones, reports): ~5h
+
+Estudo de ferramentas complementares (Figma, Actions, APIs): ~4h
+
+Total estimado: ~25h na semana
+
+📌 Status Atual
+
+Protótipo Art & News funcional em ambiente Bolt.
+
+Repositório GitHub atualizado e sincronizado.
+
+Primeira milestone criada (Integração de API de Arte).
+
+Documentação organizada em múltiplos arquivos.
+
+Relatório semanal iniciado em creative-log.
+
+🚀 Próximos Passos
+
+Avançar na integração real de API de notícias de arte (The Guardian ou alternativa).
+
+Publicar primeira versão no Vercel para visualização pública.
+
+Melhorar responsividade mobile.
+
+Criar relatórios semanais em PDF e consolidar no repositório creative-log.
+
+✍️ Assinado: Luzbela Souza
+🎓 Estudante Eng. de Software (Estácio de Sá) | 💡 Creative Technologist
