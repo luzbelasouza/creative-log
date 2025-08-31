@@ -14,11 +14,9 @@ Reflexões sobre processos criativos, pesquisa em tecnologias emergentes e gest�
 
 💡 O creative-log foi criado para:
 
-Treinar esse modelo de timesheets semanai.
+Me adaptar ao modelo de timesheets semanal que muitas empresas estão abituadas a utilizar.
 
 Servir como portfólio vivo da minha evolução acadêmica e prática.
-
-Mostrar a evolução do meu processo de aprendizado.
 
 
 ### 🔗 Acesso rápido aos relatórios
