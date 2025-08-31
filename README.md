@@ -1,4 +1,4 @@
-# 📑 Creative Log — Luzbela Souza  
+# 📑 Creative Log — timesheet
 
 Este repositório é um diário de bordo (timesheet autônomo) onde registro semanalmente minhas atividades, aprendizados e avanços em projetos de Engenharia de Software, Inteligência Artificial e Tecnologias Criativas.
 
