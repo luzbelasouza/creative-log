@@ -17,3 +17,9 @@ Treinar esse modelo de timesheets semanai.
 Servir como portfólio vivo da minha evolução acadêmica e prática.
 
 Mostrar a evolução do meu processo de aprendizado.
+
+creative-log/
+├── reports/              → Relatórios semanais organizados por ano e mês
+│   └── 2025/
+│       └── ago/
+│           └── week1.md  → Weekly Report da primeira semana de Agosto/2025
